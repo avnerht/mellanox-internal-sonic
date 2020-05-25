@@ -1,4 +1,5 @@
 #!/bin/bash
+#kk
 
 lockfile .screen
 
